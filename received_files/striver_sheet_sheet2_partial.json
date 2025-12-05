@@ -1,0 +1,222 @@
+{
+  "source_page": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
+  "notes": "Partial list generated from GitHub mirrors of the sheet. LeetCode links constructed from slugs. YouTube per-problem links were not available in the mirror; playlist used as fallback.",
+  "problems": [
+    {
+      "name": "Two Sum",
+      "leetcode_link": "https://leetcode.com/problems/two-sum/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "LeetCode link constructed from slug; YouTube: playlist fallback."
+    },
+    {
+      "name": "Longest Palindromic Substring",
+      "leetcode_link": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "LeetCode link constructed from slug; YouTube: playlist fallback."
+    },
+    {
+      "name": "Roman to Integer",
+      "leetcode_link": "https://leetcode.com/problems/roman-to-integer/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Longest Common Prefix",
+      "leetcode_link": "https://leetcode.com/problems/longest-common-prefix/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Remove Duplicates from Sorted Array",
+      "leetcode_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Search in Rotated Sorted Array",
+      "leetcode_link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Find First and Last Position of Element in Sorted Array",
+      "leetcode_link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Maximum Subarray",
+      "leetcode_link": "https://leetcode.com/problems/maximum-subarray/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Climbing Stairs",
+      "leetcode_link": "https://leetcode.com/problems/climbing-stairs/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Set Matrix Zeroes",
+      "leetcode_link": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Sort Colors",
+      "leetcode_link": "https://leetcode.com/problems/sort-colors/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Search in Rotated Sorted Array II",
+      "leetcode_link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Maximum Depth of Binary Tree",
+      "leetcode_link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Balanced Binary Tree",
+      "leetcode_link": "https://leetcode.com/problems/balanced-binary-tree/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Best Time to Buy and Sell Stock",
+      "leetcode_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Valid Palindrome",
+      "leetcode_link": "https://leetcode.com/problems/valid-palindrome/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Single Number",
+      "leetcode_link": "https://leetcode.com/problems/single-number/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Reverse Words in a String",
+      "leetcode_link": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Find Minimum in Rotated Sorted Array",
+      "leetcode_link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Find Peak Element",
+      "leetcode_link": "https://leetcode.com/problems/find-peak-element/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Majority Element",
+      "leetcode_link": "https://leetcode.com/problems/majority-element/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Rotate Array",
+      "leetcode_link": "https://leetcode.com/problems/rotate-array/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Isomorphic Strings",
+      "leetcode_link": "https://leetcode.com/problems/isomorphic-strings/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Reverse Linked List",
+      "leetcode_link": "https://leetcode.com/problems/reverse-linked-list/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Delete Node in a Linked List",
+      "leetcode_link": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Valid Anagram",
+      "leetcode_link": "https://leetcode.com/problems/valid-anagram/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Move Zeroes",
+      "leetcode_link": "https://leetcode.com/problems/move-zeroes/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Max Consecutive Ones",
+      "leetcode_link": "https://leetcode.com/problems/max-consecutive-ones/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Fibonacci Number",
+      "leetcode_link": "https://leetcode.com/problems/fibonacci-number/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Single Element in a Sorted Array",
+      "leetcode_link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Binary Search",
+      "leetcode_link": "https://leetcode.com/problems/binary-search/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Rotate String",
+      "leetcode_link": "https://leetcode.com/problems/rotate-string/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Remove Outermost Parentheses",
+      "leetcode_link": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Check If Array Is Sorted and Rotated",
+      "leetcode_link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Largest Odd Number in String",
+      "leetcode_link": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    },
+    {
+      "name": "Rearrange Array Elements by Sign",
+      "leetcode_link": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "youtube_link": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "note": "constructed"
+    }
+  ]
+}
